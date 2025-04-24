@@ -1,0 +1,16 @@
+{
+  "name": "dynamic-form-builder",
+  "version": "1.0.0",
+  "description": "Dynamic Form Builder from JSON Schema",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve"
+  },
+  "keywords": [
+    "react",
+    "form",
+    "dynamic"
+  ],
+  "author": "",
+  "license": "MIT"
+}
